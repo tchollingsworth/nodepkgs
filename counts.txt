@@ -1,0 +1,4 @@
+purejs	0
+native	6
+reviews	30
+total	

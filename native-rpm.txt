@@ -1,0 +1,6 @@
+libxmljs nodejs-libxmljs
+node-expat nodejs-node-expat
+node-stringprep nodejs-node-stringprep
+sqlite3 nodejs-sqlite3
+srs nodejs-srs
+zipfile nodejs-zipfile
