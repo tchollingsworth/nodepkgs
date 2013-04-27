@@ -151,7 +151,6 @@ zipfile nodejs-zipfile
 npm npm
 uglify-js uglify-js
 uglify-js uglify-js1
-
 jscoverage nodejs-jscoverage
 ain2 nodejs-ain2
 collections nodejs-collections
