@@ -28,3 +28,8 @@ ws
 tinycolor
 supervisor
 options
+pedding
+get
+agentkeepalive
+tilejson
+tilelive

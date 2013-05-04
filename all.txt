@@ -26,6 +26,7 @@ chmodr
 chownr
 chrono
 cli
+colors
 combined-stream
 commander
 config-chain
@@ -36,6 +37,7 @@ cookie-signature
 couch-login
 cryptiles
 cssom
+cycle
 debug
 deep-equal
 delayed-stream
@@ -181,3 +183,8 @@ ws
 tinycolor
 supervisor
 options
+pedding
+get
+agentkeepalive
+tilejson
+tilelive

@@ -28,3 +28,8 @@ ws nodejs-ws
 tinycolor nodejs-tinycolor
 supervisor nodejs-supervisor
 options nodejs-options
+pedding nodejs-pedding
+get nodejs-get
+agentkeepalive nodejs-agentkeepalive
+tilejson nodejs-tilejson
+tilelive nodejs-tilelive

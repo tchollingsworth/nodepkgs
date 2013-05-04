@@ -26,6 +26,7 @@ chmodr nodejs-chmodr
 chownr nodejs-chownr
 chrono nodejs-chrono
 cli nodejs-cli
+colors nodejs-colors
 combined-stream nodejs-combined-stream
 commander nodejs-commander
 config-chain nodejs-config-chain
@@ -36,6 +37,7 @@ cookie-signature nodejs-cookie-signature
 couch-login nodejs-couch-login
 cryptiles nodejs-cryptiles
 cssom nodejs-cssom
+cycle nodejs-cycle
 debug nodejs-debug
 deep-equal nodejs-deep-equal
 delayed-stream nodejs-delayed-stream
@@ -181,3 +183,8 @@ ws nodejs-ws
 tinycolor nodejs-tinycolor
 supervisor nodejs-supervisor
 options nodejs-options
+pedding nodejs-pedding
+get nodejs-get
+agentkeepalive nodejs-agentkeepalive
+tilejson nodejs-tilejson
+tilelive nodejs-tilelive
