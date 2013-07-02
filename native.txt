@@ -1,6 +1,0 @@
-libxmljs
-node-expat
-node-stringprep
-sqlite3
-srs
-zipfile
